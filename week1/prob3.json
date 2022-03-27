@@ -1,0 +1,20 @@
+{
+    "name":"ychan0111",
+    "job" : "student",
+    "age":20,
+    "hobby":["Read books", "watch movie"],
+    "course_table": [
+        {"name":"기업가정신과 기술혁신", "id":"IMEN110-01"},
+        {"name":"기초영어1", "id":"GEDU111-11"},
+        {"name":"대학생활과 미래설계1","id":"MSUS102-01"},
+        {"name":"미적분학1", "id":"MATH101-02"},
+        {"name":"인공지능기초1", "id":"AIGS101-01"},
+        {"name":"일반물리1", "id":"PHYS101-08"},
+        {"name":"일반물리실험1", "id":"phys103-10"},
+        {"name":"일반생명과학(H)", "id":"LIFE103H-02"},
+        {"name":"체력관리", "id":"GEDU151-01"},
+        {"name":"프로그래밍과문제해결", "id":"CSED101"},
+        {"name":"학과입문(IT융합공학과)", "id":"CITE100-01"},
+        {"name":"학과탐색", "id":"MSUS101-02"}
+    ]
+}
